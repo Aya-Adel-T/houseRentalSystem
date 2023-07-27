@@ -1,0 +1,22 @@
+[{
+  "ID":1,
+  "Name":"B house",
+  "Type":"House",
+  "Price":120000,
+  "img":"../assets/images/1.jpg"
+},{ "ID":2,
+"Name":"F house",
+"Type":"House",
+"Price":890000,
+"img":"../assets/images/2.jpg"},
+{ "ID":2,
+"Name":"Z house",
+"Type":"House",
+"Price":50000,
+"img":"../assets/images/3.jpg"},
+{ "ID":2,
+"Name":"M house",
+"Type":"House",
+"Price":867000,
+"img":"../assets/images/4.jpg"}
+]
